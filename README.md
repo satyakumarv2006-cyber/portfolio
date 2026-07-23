@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ## 🚀 Live Portfolio
 
-🔗 **Website:** https://satyakumarv2006-cyber.github.io/Portfolio/
+🔗 **Website:** https://github.com/satyakumarv2006-cyber/portfolio/edit/main/README.md
 
 > *(Update this link after enabling GitHub Pages.)*
 
