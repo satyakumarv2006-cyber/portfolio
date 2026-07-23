@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ## 🚀 Live Portfolio
 
-🔗 **Website:** https://portfolio-g7pj.onrender.com
+🔗 **Website:** https://portfolio-g7pj.onrender.com/
 
 > *(Update this link after enabling GitHub Pages.)*
 
